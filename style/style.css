@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    max-width: 375px;
+    margin-inline: auto;
+    background-color:rgba(128, 128, 128, 0.349);
+    min-height: 100vh;
+    height: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.root {
+    background-color:#eee;
+    min-height: 100vh;
+    height: auto;
+}
